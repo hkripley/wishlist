@@ -1,0 +1,76 @@
+[
+    {
+    "id": "item1",
+    "name": "Slow Burn Candle",
+    "url": "https://boysmells.com/collections/best-sellers-candles/",
+    "img": "boysmells.png",
+    "properties": {
+        "brand": "Boy Smells",
+        "price": "$52",
+        "size": "Standard (8.5oz)"
+        }
+    },
+    {
+        "id": "item2",
+        "name": "Perfume Sampler Set",
+        "url": "https://www.sephora.com/product/perfume-sampler-set-P506927?skuId=2694271&icid2=products%20grid:p506927:product",
+        "img": "perfumesampler.png",
+        "properties": {
+            "brand": "Sephora Favorites",
+            "price": "$85"
+            }
+    },
+    {
+        "id": "item3",
+        "name": "Powers of Horror",
+        "url": "https://www.amazon.com/Powers-Horror-Abjection-European-Perspectives/dp/0231053479",
+        "img": "horror.png",
+        "properties": {
+            "author": "Julia Kristeva",
+            "price": "$28"
+            }
+    },
+    {
+        "id": "item4",
+        "name": "Milk Oolong Tea",
+        "url": "https://www.bellocqtea.com/products/milk-oolong-tea?variant=231649454",
+        "img": "tea.png",
+        "properties": {
+            "brand": "Bellocq Tea",
+            "price": "$22"
+            }
+    },
+    {
+        "id": "item5",
+        "name": "Glass Teapot",
+        "url": "https://www.amazon.com/dp/B0007WTBQ0?ref_=cm_sw_r_cp_ud_dp_5SYJ19WHFXV73BG401G0&th=1",
+        "img": "teapot.png",
+        "properties": {
+            "brand": "Amazon",
+            "price": "$23.50"
+            }
+    },
+    {
+        "id": "item6",
+        "name": "Elixir of Aphrodite",
+        "url": "https://alkemiaperfumes.com/products/elixir-of-aphrodite-perfume-oil-honeyed-apricots-guiac-wood-and-vanilla-musk-ultime-available?variant=18340983668787",
+        "img": "elixir.png",
+        "properties": {
+            "brand": "Alkemia",
+            "price": "$20",
+            "style": "Extrait - Rollerball"
+            }
+    },
+    {
+        "id": "item7",
+        "name": "Kimono Bath Robe",
+        "url": "https://www.amazon.com/dp/B07QQVG1WV?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_S4XCV43WPQTDV0WGFYD9",
+        "img": "robe.png",
+        "properties": {
+            "brand": "Alkemia",
+            "price": "$24.99",
+            "size": "Small",
+            "color": "Emerald"
+            }
+    }
+]
